@@ -19,8 +19,6 @@
 
 - 📫 Reach me at **srijanprak@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1B0DgPXQnzptSEvLGG0ch4847qf1dICX_/view?usp=sharing](https://drive.google.com/file/d/1B0DgPXQnzptSEvLGG0ch4847qf1dICX_/view?usp=sharing)
-
 -  👨‍💻 All of my projects are available at [https://shri05-stack.github.io/Portfolio/](https://shri05-stack.github.io/Portfolio/)
 
 - ⚡ Fun fact **I still believed in Santa Claus until I was in High School. 😂**
